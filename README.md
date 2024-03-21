@@ -4,7 +4,7 @@ Rancher Desktop is an open-source project that brings Kubernetes and
 container management to the desktop. It runs on Windows, macOS and
 Linux. This README pertains to the development of Rancher Desktop.
 For user-oriented information about Rancher Desktop, please see [rancherdesktop.io][home].
-For user-oriented documentation, please see [docs.rancherdesktop.io][docs].
+For developer-oriented documentation, please see [docs.rancherdesktop.io][docs].
 
 [home]: https://rancherdesktop.io
 [docs]: https://docs.rancherdesktop.io
